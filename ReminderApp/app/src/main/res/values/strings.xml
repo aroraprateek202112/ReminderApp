@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ReminderApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="title"><b>Title..</b></string>
+    <string name="title_payment"><b>Bills, LIC..</b></string>
+    <string name="title_anniversery"><b>Anniversery, Birthdays..</b></string>
+
+    <string name="notes">Notes(Optional)..</string>
+    <string name="reminder_category">Reminder Category</string>
+    <string name="reminder_time">Reminder Time</string>
+    <string name="due_date">Due Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="notify_before">Notify before</string>
+    <string name="time">Time</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount..</string>
+    <string name="sound_with_vibration">Sound with vibration</string>
+    <string name="save">Save</string>
+    <string name="add_new_reminder">Add New Reminder</string>
+    <string name="reminder">Reminder</string>
+    <string name="general_reminder">General</string>
+    <string name="payment_reminder">Payment</string>
+    <string name="missed">Missed</string>
+
+    <string name="dismiss">Dismiss</string>
+
+    <string name="todo">ToDO</string>
+    <string name="payments">Payments</string>
+    <string name="anniversery">Anniversery</string>
+    <string name="one_time_event">One-time event</string>
+
+    <string name="active">ACTIVE</string>
+    <string name="inactive">INACTIVE</string>
+
+    <string-array name="repeat">
+        <item>@string/one_time_event</item>
+        <item>@string/repeat</item>
+    </string-array>
+
+    <string-array name="notify_before">
+        <item>Hour(s)</item>
+        <item>Minute(s)</item>
+        <item>Day(s)</item>
+    </string-array>
+
+    <array name="repeat_interval">
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+        <item>Hour</item>
+        <item>Minute</item>
+    </array>
+
+    <string-array name="category_list">
+        <item>@string/todo</item>
+        <item>@string/payments</item>
+        <item>@string/anniversery</item>
+    </string-array>
+    
+</resources>
